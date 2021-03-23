@@ -37,7 +37,7 @@ My name is Renan and ...:
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=https://linktr.ee/renan.klinsmann)](https://linktr.ee/renan.klinsmann)
 
 
-# Skills
+# Skill
 
 
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
