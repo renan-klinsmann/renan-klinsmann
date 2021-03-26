@@ -26,7 +26,7 @@ My name is Renan and ...:
 - 📖 And besides, I'm constantly learning
 
 
-# Contact
+# Contact 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-klinsmann/)](https://www.linkedin.com/in/renan-klinsmann/)
